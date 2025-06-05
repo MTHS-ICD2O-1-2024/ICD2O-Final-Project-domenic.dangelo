@@ -52,7 +52,7 @@
 }
 
 .clicks-box {
-  width: 200px;
+  width: 270px;
   height: 200px;
   background-color: #1e1e1e;
   border-radius: 20px;
@@ -69,6 +69,12 @@
 #clicks {
   font-size: 60px;
   color: #0f8;
+}
+
+#answer {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 body {
